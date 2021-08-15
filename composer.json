@@ -1,0 +1,15 @@
+{
+    "name": "artemklinkov/001-intro",
+    "autoload": {
+        "psr-4": {
+            "Artemklinkov\\001Intro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artem",
+            "email": "artemklinkov@yandex.ru"
+        }
+    ],
+    "require": {}
+}
